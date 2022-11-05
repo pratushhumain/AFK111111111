@@ -1,0 +1,9 @@
+{
+	"ip":"Playgrapemc.aternos.me",
+	"port": 24070,
+	"name": "AFK111111111",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register AFK1232@#_
+	"login-cmd":"/login AFK1232@#_"
+}
